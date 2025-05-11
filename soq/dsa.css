@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
+* {
+  font-family: "Press Start 2P", sans-serif;
+  font-size: 8px;
+  /* overflow: hidden; */
+}
+
+body {
+  /* background-image: url("minecraft-portrait-17.jpg"); */
+  background-image: url("back.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: green;
+}
+img {
+  z-index: 1;
+  aspect-ratio: 1;
+}
+
+table {
+  margin-left: 0px;
+  margin-top: 5px;
+}
+#numin {
+  padding-top: 50px;
+  font-size: 40px;
+  color: rgba(169, 122, 50, 1);
+  /*  */
+}
+td {
+  text-align: center;
+  padding-top: 10px;
+}
+.boxx {
+  display: flex;
+  justify-content: space-between;
+}
+.spa {
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+.push,
+.pop,
+.number,
+.numbe {
+  margin-left: 50px;
+  margin-top: 100px;
+  /* width: 100px;
+  height: 50px; */
+}
+.bothan {
+  display: flex;
+}
+.number,
+.numbe {
+  width: 100px;
+}
+#numin {
+  margin-bottom: 0px;
+}
