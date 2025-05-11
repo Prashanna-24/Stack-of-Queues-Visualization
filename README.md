@@ -8,4 +8,4 @@ This project visualizes a **Stack of Queues** data structure using a **Minecraft
 - Real-time updates and animations
 - Educational tool for teaching complex data structures
 
-## Screenshots
+## 📷 Screenshots
