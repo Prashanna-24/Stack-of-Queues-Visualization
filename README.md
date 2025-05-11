@@ -9,3 +9,6 @@ This project visualizes a **Stack of Queues** data structure using a **Minecraft
 - Educational tool for teaching complex data structures
 
 ## 📷 Screenshots
+![Home page](https://github.com/user-attachments/assets/6527f12f-e171-4250-866d-69332763b420)
+![working](https://github.com/user-attachments/assets/61e40c92-d86a-4367-96e0-acb8ba5d75d9)
+
